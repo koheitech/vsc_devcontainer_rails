@@ -4,6 +4,9 @@ Devcontainers' configurations for list of rails versions
 
 # Usage
 
+### Choose an appropriate version
+List of versions are availabel in branches
+
 ### Install followings
 
 - [Visual Stuio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
